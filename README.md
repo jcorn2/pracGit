@@ -1,0 +1,2 @@
+# pracGit
+for practing git
